@@ -214,10 +214,6 @@ Test-Automation-500107203/
 ![Test Report 2](docs/test-report2.png)
 
 
-### GitHub Actions Artifacts
-
-![GitHub Actions Artifacts](docs/artifacts.png)
-
 The GitHub Actions workflow generates and stores:
 
 -   Test execution reports
